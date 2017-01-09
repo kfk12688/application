@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-
+<?php 
+echo 'boo';
+?>
 <html>
 
 <head>
